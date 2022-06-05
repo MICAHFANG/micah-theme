@@ -1,0 +1,26 @@
+{
+  "name": "micahtheme",
+  "displayName": "micah theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "micah theme dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/micah-theme-dark-color-theme.json"
+      },
+      {
+        "label": "micah theme soft dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/micah-theme-soft-dark-color-theme.json"
+      }
+    ]
+  }
+}
