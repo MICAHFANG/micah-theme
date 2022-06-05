@@ -2,6 +2,6 @@
 
 
 ## Screenshots
-![dark theme](./screenshots/micah-theme-dark.jpg)
+![dark theme](https://raw.githubusercontent.com/MICAHFANG/micah-theme/main/screenshots/micah-theme-dark.jpg)
 
 **Enjoy it**
