@@ -27,7 +27,7 @@
     "quickInput.background": "#121317",
     "quickInput.foreground": "#eeffff",
     "quickInputTitle.background": "#121317",
-    "quickInputList.focusBackground": "#121317",
+    "quickInputList.focusBackground": "#31404d91",
     "focusBorder": "#558cbcc7",
     "input.background": "#121317",
     "settings.headerForeground": "#121317",
