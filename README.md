@@ -10,7 +10,7 @@
 
 `Operator mono lig` font is an awesome mono font for developers.
 
-You can see details in [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig)
+sou can see details in [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig)
 
 ## Screenshots
 
